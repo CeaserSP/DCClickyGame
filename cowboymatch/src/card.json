@@ -43,5 +43,10 @@
       "id": 9,
       "image": "witten.jpg",
       "count": 0
-    }
+    },
+    {
+        "id": 10,
+        "image": "gallup.jpg",
+        "count": 0
+      }
 ]

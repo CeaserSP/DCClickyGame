@@ -71,8 +71,17 @@ class App extends Component {
   // Map over this.state.cards and render a cardCard component for each card object
   render() {
     return (
+      <div className="App">
+      <header className="App-header">
+          <h1 className="App-title">Dallas Cowboys Memory Game!</h1>
+          <p className="App-intro">
+            Try not to click the same player twice!
+          </p>
+           <Score score={this.state.pickedCards.length} topscore={this.state.topscore}>SCORE BOARD</Score>
+        </header>
+       
       <Wrapper>
-        <Score score={this.state.pickedCards.length} topscore={this.state.topscore}>Clicky Game</Score>
+        
         {this.state.cards.map(card => (
           <Card
             // countClick={this.countClick}
@@ -83,6 +92,11 @@ class App extends Component {
           />
         ))}
       </Wrapper>
+      <footer>
+          <p>Designed and built by Ceaser Perkins. You can find the
+          code<a href="https://github.com/CeaserSP/DCClickyGame" target="_blank" rel="noopener noreferrer"> here</a>.</p>
+        </footer>
+      </div>
     );
   }
 
