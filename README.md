@@ -11,10 +11,14 @@ The goal was to showcase my skills in react by building a basic react app that h
 You can use this game [here](https://ceasersp.github.io/DCClickyGame/)!
 
 ### Screenshots
-<img src="./public/img/BBMain.png">
+Homepage.
+<img src="./img/Home.png">
 <br>
 <br>
-<img src="./public/img/BBNameBurg.png">
+First Click.
+<img src="./img/Click.png">
+Topscore.
+<img src="./img/topscore.png">
 
 ### Technologies Used 
 * React
