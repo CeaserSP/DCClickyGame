@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DCClickyGame/static/css/main.61082b72.chunk.css",
+    "main.js": "/DCClickyGame/static/js/main.92b593c8.chunk.js",
+    "main.js.map": "/DCClickyGame/static/js/main.92b593c8.chunk.js.map",
+    "runtime-main.js": "/DCClickyGame/static/js/runtime-main.5fa9ff27.js",
+    "runtime-main.js.map": "/DCClickyGame/static/js/runtime-main.5fa9ff27.js.map",
+    "static/js/2.e1d41bde.chunk.js": "/DCClickyGame/static/js/2.e1d41bde.chunk.js",
+    "static/js/2.e1d41bde.chunk.js.map": "/DCClickyGame/static/js/2.e1d41bde.chunk.js.map",
+    "index.html": "/DCClickyGame/index.html",
+    "precache-manifest.aa1f84a0f755ba241f4d8ab0f713139e.js": "/DCClickyGame/precache-manifest.aa1f84a0f755ba241f4d8ab0f713139e.js",
+    "service-worker.js": "/DCClickyGame/service-worker.js",
+    "static/css/main.61082b72.chunk.css.map": "/DCClickyGame/static/css/main.61082b72.chunk.css.map",
+    "static/js/2.e1d41bde.chunk.js.LICENSE": "/DCClickyGame/static/js/2.e1d41bde.chunk.js.LICENSE",
+    "static/media/quinn.jpg": "/DCClickyGame/static/media/quinn.1af2a7a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa9ff27.js",
+    "static/js/2.e1d41bde.chunk.js",
+    "static/css/main.61082b72.chunk.css",
+    "static/js/main.92b593c8.chunk.js"
+  ]
+}
