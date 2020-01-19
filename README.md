@@ -1,5 +1,4 @@
 # DCClickyGame
-# Clickity-Clack Movie Game
 
 This is a react based web application that tests your memory of Dallas football players.  Once you select a player, the position of all the players will randomly change position.  The goal of the game is to get all 10 players clicked without selecting the same player! 
 
@@ -10,6 +9,12 @@ The goal was to showcase my skills in react by building a basic react app that h
 ### How to Use
 
 You can use this game [here](https://ceasersp.github.io/DCClickyGame/)!
+
+### Screenshots
+<img src="./public/img/BBMain.png">
+<br>
+<br>
+<img src="./public/img/BBNameBurg.png">
 
 ### Technologies Used 
 * React
